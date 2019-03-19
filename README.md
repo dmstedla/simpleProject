@@ -1,1 +1,1 @@
-# simpleProject
+This is my first project! fun!
