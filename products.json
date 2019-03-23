@@ -26,51 +26,51 @@
 },{
     "id":023,
     "title":"troja",
-    "img":"image.png",
+    "img":"image01.png",
     "price":12.34
 },{
     "id":056,
     "title":"Jacka",
-    "img":"PARKA2.png",
+    "img":"PARKA201.png",
     "price":43.21
 },{
     "id":089,
     "title":"TROJA2",
-    "img":"pic3.png",
+    "img":"pic301.png",
     "price":45.67
 },{
     "id":087,
     "title":"troja3",
-    "img":"product1-image.png",
+    "img":"product1-image01.png",
     "price":78.90
 },{
     "id":054,
     "title":"jacka2",
-    "img":"product2.png",
+    "img":"product201.png",
     "price":76.54
 },{
     "id":023,
     "title":"troja",
-    "img":"image.png",
+    "img":"image01.png",
     "price":12.34
 },{
     "id":056,
     "title":"Jacka",
-    "img":"PARKA2.png",
+    "img":"PARKA201.png",
     "price":43.21
 },{
     "id":089,
     "title":"TROJA2",
-    "img":"pic3.png",
+    "img":"pic301.png",
     "price":45.67
 },{
     "id":087,
     "title":"troja3",
-    "img":"product1-image.png",
+    "img":"product1-image01.png",
     "price":78.90
 },{
     "id":054,
     "title":"jacka2",
-    "img":"product2.png",
+    "img":"product201.png",
     "price":76.54
 }]
